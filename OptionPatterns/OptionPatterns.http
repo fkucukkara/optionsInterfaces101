@@ -1,0 +1,16 @@
+@OptionPatterns_HostAddress = http://localhost:5132
+
+GET {{OptionPatterns_HostAddress}}/option/
+Accept: application/json
+
+###
+
+GET {{OptionPatterns_HostAddress}}/option-snapshot/
+Accept: application/json
+
+###
+
+GET {{OptionPatterns_HostAddress}}/option-monitor/
+Accept: application/json
+
+###
