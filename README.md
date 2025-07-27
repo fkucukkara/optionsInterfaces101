@@ -101,10 +101,6 @@ OptionPatterns/
 - [Options pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options)
 - [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/)
 
-## 🤝 Contributing
-
-This is an educational project. Feel free to fork and experiment with different scenarios!
-
 ## 📄 License
 
-This project is for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
